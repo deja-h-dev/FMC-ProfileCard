@@ -1,0 +1,30 @@
+// project colors
+$viridianGreen: #19A2AE;
+$spaceCadet: #2D3248;
+$rhythm: #6A6F81;
+$darkGray: #969696;
+
+// deja dev's colors
+$platinum: #E6E7E8;
+$citrine: #E4D00A;
+$oldGold: #C4B108;
+$blue: #0A1EE4;
+$mediumBlue: #081BC4;
+$eerieBlack: #1C1C1C;
+
+// font
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+$fFam: 'Kumbh Sans', sans-serif;
+$fSize: 18px;
+$fReg: 400;
+$fBold: 700;
+
+.attribution {
+  background: $eerieBlack;
+  color: $platinum;
+  font-size: 11px; 
+  text-align: center;
+}
+.attribution a {
+  color: $blue;
+}
