@@ -19,12 +19,36 @@ $fSize: 18px;
 $fReg: 400;
 $fBold: 700;
 
+// images
+$bgTop: url(/images/bg-pattern-top.svg);
+$bgBotm: url(/images/bg-pattern-bottom.svg);
+
+
+html{overflow-x: hidden;}
+body{
+  min-height: 100vh;
+  max-width: 100%;
+}
+
+#bgImg{
+  height: 100vh;
+  width: 100vw;
+  background-image: $bgTop, $bgBotm;
+  background-color: $viridianGreen;
+  background-repeat: no-repeat, no-repeat;
+  background-position: top -40% left -40%, bottom -40% right -40%;
+  background-size: 300px;
+}
+
 .attribution {
   background: $eerieBlack;
   color: $platinum;
   font-size: 11px; 
   text-align: center;
+  padding: .5rem;
 }
 .attribution a {
-  color: $blue;
+  text-decoration: none;
+  color: $citrine;
 }
+.attribution a:hover{color: $oldGold;}
