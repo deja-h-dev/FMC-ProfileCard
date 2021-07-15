@@ -35,9 +35,10 @@ body{
   width: 100vw;
   background-image: $bgTop, $bgBotm;
   background-color: $viridianGreen;
-  background-repeat: no-repeat, no-repeat;
-  background-position: top -40% left -40%, bottom -40% right -40%;
-  background-size: 300px;
+  background-repeat: no-repeat;
+  background-position: top -250px left -200px, bottom -250px right -200px;
+  background-size: 600px;
+  background-attachment: local;
 }
 
 .attribution {
