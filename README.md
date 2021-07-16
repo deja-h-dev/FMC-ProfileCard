@@ -10,9 +10,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -25,12 +23,12 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](design/fin.png)
 
 ### Links
 
 - Solution URL: [github repo](https://github.com/deja-h-dev/FMC-ProfileCard)
-- Live Site URL: [live site]()
+- Live Site URL: [live site](https://deja-h-dev.github.io/FMC-ProfileCard/)
 
 ## My process
 
@@ -43,21 +41,10 @@ I figured out why the bg imgs weren't showing in ph-pages. I had to fix the file
 
 - Semantic HTML 5
 - SCSS
--
-
-### What I learned
-- 
-
 
 ### Continued development
 - Learn how to use the background shorthand
 - 
-
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - 
-- [Example resource 2](https://www.example.com) - 
 
 ## Author
 
